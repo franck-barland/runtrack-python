@@ -1,0 +1,154 @@
+utilisateur lpja 
+mot pass:  root
+
+ - job 01 : question 1 )Quel est le rôle de la carte mère dans un ordinateur ? 
+
+reponse: La carte mère est la principale carte de circuit imprimé dans un ordinateur qui relie tous les composants entre eux. 
+Elle contient le chipset, les emplacements de RAM, les emplacements d'extension, les connecteurs de périphériques, les ports d'entrée/sortie, et le BIOS. 
+La carte mère assure la communication et la coordination entre les différents composants de l'ordinateur.
+
+question 2)  Si j’enlève les barrettes de RAM de mon ordinateur, qu'arrive t-il ? 
+
+reponse: Si vous enlevez les barrettes de RAM de votre ordinateur, celui-ci ne pourra plus fonctionner. 
+La RAM est un composant essentiel de l'ordinateur qui permet de stocker temporairement les données nécessaires pour exécuter les programmes en cours d'utilisation. 
+Sans la RAM, l'ordinateur ne peut pas charger les programmes ni même démarrer.
+
+question: 3) Quelles sont les différences entre un SSD et un HDD ? 
+reponse: Les différences principales entre un SSD (Solid State Drive) et un HDD (Hard Disk Drive) sont la technologie de stockage et les performances.
+ Les SSD utilisent des puces de mémoire flash pour stocker les données, ce qui leur permet de fonctionner plus rapidement et d'avoir une vitesse de lecture/écriture plus élevée que les HDD.
+ Les HDD utilisent des disques magnétiques rotatifs pour stocker les données, ce qui les rend plus lents mais aussi moins chers par rapport aux SSD.
+
+question 4)  C’est quoi une carte réseau ? 
+
+reponse: Une carte réseau est un composant qui permet à un ordinateur de se connecter à un réseau informatique, comme Internet ou un réseau local.
+ Elle est équipée d'un connecteur qui permet de brancher un câble Ethernet ou une connexion sans fil pour échanger des données avec d'autres ordinateurs.
+
+question 5)Quelles sont les différences entre le GPU et le CPU ?
+
+reponse: Les différences principales entre un GPU (Graphics Processing Unit) et un CPU (Central Processing Unit) sont les tâches qu'ils effectuent et leur conception.
+ Le CPU est conçu pour traiter des instructions générales, tandis que le GPU est conçu pour effectuer des calculs spécifiques aux graphiques et à la vidéo.
+ Les GPU sont donc plus adaptés pour les jeux vidéo et les applications graphiques. 
+Les GPU ont également de nombreux cœurs de traitement pour accélérer les calculs, alors que les CPU ont généralement moins de cœurs mais avec une fréquence d'horloge plus élevée.
+
+question 6)  Quelles incompatibilités entre composants peut-on avoir ?
+
+reponse: Les incompatibilités entre les composants peuvent être nombreuses.
+ Certaines incompatibilités courantes incluent les différences de connecteurs, les limitations de puissance, les exigences de tension, les conflits de firmware, et les limitations de bande passante. Par exemple, si vous achetez une carte graphique qui nécessite plus de puissance que votre alimentation peut fournir, l'ordinateur peut ne pas démarrer ou s'éteindre brusquement. 
+Il est important de vérifier les compatibilités des composants avant de les acheter et de les installer dans votre ordinateur.
+
+
+
+job 02 question 1) C’est quoi un ISO ?
+
+reponse: Un fichier ISO est une image disque qui contient les données d'un CD, DVD ou disque Blu-ray.
+Le format ISO est couramment utilisé pour la distribution de logiciels et de systèmes d'exploitation, et peut être utilisé pour créer un disque de démarrage ou pour installer des logiciels sur un ordinateur.
+
+question 2)  A quoi sert le BIOS ?
+
+reponse: Le BIOS (Basic Input/Output System) est un micrologiciel qui est installé sur la carte mère de l'ordinateur et qui assure la communication entre le système d'exploitation, le matériel et les périphériques connectés. 
+Il est responsable du démarrage de l'ordinateur et de l'initialisation des composants matériels, tels que la RAM, les disques durs, les cartes graphiques, etc.
+
+question: 3) Où sont stockées les informations enregistrées dans le BIOS ? 
+
+reponse: Les informations stockées dans le BIOS sont stockées dans une mémoire non volatile appelée mémoire CMOS (Complementary Metal-Oxide-Semiconductor). Cette mémoire conserve les informations même lorsque l'ordinateur est éteint, telles que la configuration matérielle de l'ordinateur, les paramètres de l'horloge système, et les réglages du BIOS.
+
+question 4) Comment la mémoire du BIOS est-elle préservée ? 
+
+reponse: La mémoire du BIOS est préservée à l'aide d'une pile de sauvegarde ou d'une batterie CMOS qui alimente la mémoire CMOS lorsque l'ordinateur est éteint. 
+Cette pile permet de conserver les informations du BIOS pendant plusieurs années. Si la pile est à plat, les informations du BIOS peuvent être perdues, ce qui peut entraîner des problèmes de démarrage et de fonctionnement de l'ordinateur.
+
+question 5) Citez quelques systèmes de fichiers et leurs spécificités ?
+
+reponse: Les systèmes de fichiers déterminent comment les données sont stockées et organisées sur un disque dur ou un périphérique de stockage. 
+Quelques exemples de systèmes de fichiers incluent NTFS (New Technology File System) utilisé par Windows, HFS+ (Hierarchical File System) utilisé par Mac OS, et EXT4 (Fourth Extended File System) utilisé par Linux.
+ Les spécificités de chaque système de fichiers peuvent inclure la taille maximale des fichiers, le nombre de fichiers pouvant être stockés dans un dossier, la gestion de la fragmentation des fichiers, et la prise en charge de la sécurité et des permissions d'accès aux fichiers.
+
+
+job 03) question 1) - C’est quoi un ISO ?
+
+reponse: Un fichier ISO est une image disque qui contient les données d'un CD, DVD ou disque Blu-ray. Le format ISO est couramment utilisé pour la distribution de logiciels et de systèmes d'exploitation, et peut être utilisé pour créer un disque de démarrage ou pour installer des logiciels sur un ordinateur.
+
+question 2 )
+
+reponse : Debian est une distribution Linux open source. Elle est développée par une communauté de développeurs bénévoles qui travaillent ensemble pour créer une distribution stable, sécurisée et conviviale pour les utilisateurs. Debian est connue pour sa gestion des paquets et sa politique de stabilité, qui vise à garantir que les mises à jour logicielles ne perturbent pas le fonctionnement du système.
+
+question 3)  Qu'est-ce qu'un projet open source ? 
+
+reponse : Un projet open source est un projet de développement de logiciels où le code source est disponible publiquement et où les développeurs peuvent contribuer librement à son développement. Les projets open source sont souvent gérés par des communautés de développeurs bénévoles qui travaillent ensemble pour améliorer le logiciel et le maintenir. Les licences open source permettent également aux utilisateurs de modifier et de redistribuer le logiciel selon leurs besoins.
+
+question 4) Qui est le fondateur de Debian ?
+
+reponse: Ian Murdock est le fondateur de Debian. Il a créé la distribution Debian en 1993 alors qu'il était étudiant à l'Université de Purdue aux États-Unis. Il a conçu Debian comme une distribution Linux qui serait entièrement développée par des volontaires et basée sur des principes tels que la liberté du logiciel et la transparence.
+
+job 05) question 1) : Qu'est-ce qu'un .deb ?
+
+reponse: Un fichier .deb est un format de paquetage utilisé principalement dans les distributions Linux basées sur Debian, telles que Ubuntu, Debian et Linux Mint. Les fichiers .deb contiennent des logiciels pré-compilés ainsi que des métadonnées nécessaires pour installer et gérer le logiciel sur un système d'exploitation Linux.
+
+Les fichiers .deb sont souvent utilisés pour distribuer des applications Linux via les dépôts de logiciels en ligne, tels que le gestionnaire de paquets APT (Advanced Package Tool), qui est couramment utilisé sur les systèmes Debian et Ubuntu.
+
+question 2 ) Existe-t-il une alternative open-source à Google Chrome ?
+
+reponse:  il existe plusieurs alternatives open-source à Google Chrome. Voici quelques exemples : 1) Mozilla Firefox : Il s'agit d'un navigateur Web open-source populaire et gratuit, développé par la fondation Mozilla.
+
+2) Chromium : Il s'agit du projet open-source à la base de Google Chrome, ce qui signifie que Chromium offre des fonctionnalités similaires à celles de Chrome, mais sans les services Google.
+3)Brave : Il s'agit d'un navigateur Web open-source rapide et privé, basé sur Chromium, qui dispose de nombreuses fonctionnalités de confidentialité et de sécurité.
+
+job 06 question 1) Qu'est-ce que le shell ?
+
+reponse: Le shell est un programme informatique qui fournit une interface en ligne de commande pour les utilisateurs de systèmes d'exploitation Unix et Linux. Le shell permet aux utilisateurs d'interagir avec le système d'exploitation en saisissant des commandes textuelles pour exécuter des programmes, gérer des fichiers et des répertoires, etc.
+
+question 2 ) Existe-t-il une commande pour avoir le manuel d'une commande Linux ? Quelle est-elle ?
+Oui, il existe une commande pour avoir le manuel d'une commande Linux. Il s'agit de la commande "man". Par exemple, pour afficher le manuel de la commande "ls", vous pouvez saisir la commande suivante dans le terminal :
+
+Qu'est-ce que le shell ?
+Le shell est un programme informatique qui fournit une interface en ligne de commande pour les utilisateurs de systèmes d'exploitation Unix et Linux. Le shell permet aux utilisateurs d'interagir avec le système d'exploitation en saisissant des commandes textuelles pour exécuter des programmes, gérer des fichiers et des répertoires, etc.
+
+Les shells les plus couramment utilisés sous Linux sont Bash (Bourne-Again SHell), Zsh (Z SHell) et Fish (Friendly Interactive SHell). Chaque shell possède ses propres fonctionnalités et commandes.
+
+Existe-t-il une commande pour avoir le manuel d'une commande Linux ? Quelle est-elle ?
+Oui, il existe une commande pour avoir le manuel d'une commande Linux. Il s'agit de la commande "man". Par exemple, pour afficher le manuel de la commande "ls", vous pouvez saisir la commande suivante dans le terminal :
+"man ls" 
+
+La commande "man" permet d'afficher le manuel (la documentation) d'une commande, d'un programme ou d'une fonctionnalité spécifique du système d'exploitation. Le manuel fournit des informations détaillées sur l'utilisation de la commande, les options disponibles, les exemples d'utilisation, 
+ 
+question 3) Pouvez-vous expliquer l'arborescence de fichiers Linux ? Ses particularités ?
+
+reponse: L'arborescence de fichiers Linux est la structure hiérarchique des fichiers et des répertoires sur un système d'exploitation Linux. Elle débute à la racine du système de fichiers et se divise en plusieurs niveaux de répertoires.
+
+La racine du système de fichiers est représentée par le symbole "/", et tous les fichiers et répertoires sont organisés sous cet arbre de répertoires. Voici quelques répertoires clés de l'arborescence de fichiers Linux :
+
+/bin : contient les fichiers binaires (programmes) essentiels pour le fonctionnement du système.
+/etc : contient les fichiers de configuration système.
+/home : contient les répertoires personnels des utilisateurs.
+/usr : contient les programmes et les fichiers de données installés par les utilisateurs.
+/var : contient les fichiers de données variables du système, tels que les fichiers journaux, les fichiers de base de données, etc.
+L'arborescence de fichiers Linux suit une structure standardisée, qui permet aux utilisateurs de naviguer facilement dans le système de fichiers et de trouver les fichiers dont ils ont besoin. Les noms de fichiers et de répertoires sont sensibles à la casse, ce qui signifie que "fichier.txt" et "Fichier.txt" sont deux fichiers différents. Enfin, les fichiers et les répertoires peuvent être protégés par des autorisations d'accès, qui déterminent qui peut accéder, modifier ou exécuter ces fichiers.
+
+job08 question1) : Quelles sont les différences entre SU et SUDO ?
+
+reponce: SU (Switch User) et SUDO (Superuser Do) sont deux commandes qui permettent aux utilisateurs d'exécuter des commandes avec des privilèges administratifs sur un système Unix/Linux. Cependant, il existe des différences importantes entre les deux commandes.
+La commande "su" permet à l'utilisateur de changer d'utilisateur et de se connecter en tant que superutilisateur (root) ou en tant qu'un autre utilisateur.
+ Cela signifie que l'utilisateur obtient les droits d'administrateur complets de l'utilisateur auquel il se connecte. L'utilisateur doit entrer le mot de passe de l'utilisateur cible pour effectuer cette opération.
+
+La commande "sudo", quant à elle, permet à l'utilisateur d'exécuter une commande avec les privilèges d'administrateur, sans avoir à se connecter en tant que superutilisateur ou à changer d'utilisateur.
+ L'utilisateur doit entrer son propre mot de passe pour effectuer cette opération.
+ De plus, les administrateurs système peuvent configurer des politiques de sécurité pour limiter l'utilisation de la commande "sudo" et limiter les commandes que les utilisateurs sont autorisés à exécuter. 
+
+question 2 )Pourquoi utiliser SUDO et non SU ?
+
+reponse: Il est généralement recommandé d'utiliser la commande "sudo" plutôt que "su" pour les raisons suivantes :
+
+La commande "sudo" permet de limiter les risques liés à la sécurité. En effet, avec la commande "su", l'utilisateur se connecte en tant que superutilisateur, ce qui signifie qu'il a accès à tous les fichiers et répertoires du système. Cela peut poser un risque pour la sécurité du système si l'utilisateur n'est pas suffisamment prudent.
+
+La commande "sudo" permet une gestion plus fine des droits d'accès. Les administrateurs système peuvent configurer des politiques de sécurité pour limiter les commandes que les utilisateurs sont autorisés à exécuter avec la commande "sudo".
+
+La commande "sudo" permet de suivre les actions des utilisateurs de manière plus précise. Les journaux système peuvent être configurés pour enregistrer les commandes exécutées avec la commande "sudo", ce qui permet de retracer les actions des utilisateurs et de diagnostiquer les problèmes.
+
+
+question 3) C'est quoi une élévation de privilèges ?
+
+reponse: L'élévation de privilèges est le processus qui permet à un utilisateur d'obtenir des privilèges supplémentaires sur un système informatique. Cela peut se produire de manière volontaire ou involontaire, et peut être utilisé à des fins légitimes ou malveillantes.
+
+Dans le contexte de la sécurité informatique, l'élévation de privilèges est souvent associée aux attaques de type "exploit" qui exploitent des vulnérabilités du système pour obtenir des privilèges supplémentaires. Les attaquants peuvent utiliser cette méthode pour accéder à des données sensibles ou pour effectuer des actions malveillantes sur le système.
+
+Cependant, l'élévation de privilèges peut également être utilisée à des fins légitimes. Par exemple, les administrateurs système peuvent utiliser l'élévation de privilèges pour installer des logiciels ou pour effectuer des tâches de maintenance sur le système qui nécessitent des privilèges d'administrateur.
